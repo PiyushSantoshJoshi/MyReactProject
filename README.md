@@ -1,4 +1,4 @@
-# My React Project - Comprehensive React Examples & Features
+# My React Projects - Comprehensive React Examples & Features & projects I have worked on
 
 A comprehensive React application showcasing various React concepts, patterns, and real-world implementations including routing, state management, CRUD operations, authentication, dark mode, and more.
 
